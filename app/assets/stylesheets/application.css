@@ -29,6 +29,12 @@ body {
     background-color: black;
 }
 
+.custom-font {
+    font-family: 'Dancing Script', cursive;
+    font-weight: 600;
+    /* Otros estilos de fuente personalizados, como tamaño, color, etc. */
+  }
+
 .texto{
 text-align: center;
 }
@@ -42,11 +48,6 @@ text-align: center;
         text-align: center;
 }
 
-.custom-font {
-    font-family: 'Dancing Script', cursive;
-    font-weight: 600;
-    /* Otros estilos de fuente personalizados, como tamaño, color, etc. */
-  }
 
 .festivales {
     margin-left: 50px;
