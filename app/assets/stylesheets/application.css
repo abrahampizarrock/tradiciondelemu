@@ -16,14 +16,7 @@
 
 
  
- .navbar-light .navbar-brand,
- .navbar-light .navbar-nav .nav-link {
-   color: white; /* Cambia el color del texto a blanco */
-}
 
-#navbarNav{
-color: rgb(13, 13, 13);
-}
 
 .texto{
 text-align: center;
