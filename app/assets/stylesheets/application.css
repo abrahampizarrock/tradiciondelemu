@@ -16,6 +16,14 @@
 
 
  
+ .bg-black {
+  background-color: black; /* Fondo negro para el navbar */
+}
+
+.navbar-dark .navbar-brand,
+.navbar-dark .navbar-nav .nav-link {
+  color: white; /* Color del texto en blanco */
+}
 
 
 .texto{
